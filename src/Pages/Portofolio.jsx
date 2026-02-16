@@ -127,25 +127,32 @@ export default function FullWidthTabs() {
   const [projects, setProjects] = useState([
     {
       id: 1,
-      Img: "/gambarproject/projectgambar1.jpg",
-      Title: "Project",
-      Description: "Project saya",
-      Link: "https://github.com"
+      Img: "/gambarproject/project1.png",
+      Title: "Project Restaurant RA Premium Data Base Dan Dashboard Admin",
+      Description: "Ini saya membuatnya sedikit susah ya guys",
+      Link: "https://github.com/riskiainformatika-lang/projectrestoranra.git"
     },
     {
       id: 2,
-      Img: "/gambarproject/projectgambar2.jpg",
-      Title: "Project",
-      Description: "Project saya",
-      Link: "https://github.com"
+      Img: "/gambarproject/project2.png",
+      Title: "Project Restaurant Tanpa Data Base Dan Dashboard Admin",
+      Description: "Ini untuk kalian jika pemula",
+      Link: "https://github.com/riskiainformatika-lang/projectrestoranbyiki.git"
     },
     {
       id: 3,
-      Img: "/gambarproject/projectgambar3.jpg",
-      Title: "Project",
-      Description: "Project saya",
-      Link: "https://github.com"
-    }
+      Img: "/gambarproject/project3.png",
+      Title: "Project Kepastian Cinta",
+      Description: "Ini kalo kalian bosan aja",
+      Link: "https://github.com/riskiainformatika-lang/projectgabut.git"
+    },
+    {
+      id: 4,
+      Img: "/gambarproject/project4.png",
+      Title: "Projects Simulasi Arduino di Wokwi",
+      Description: "Selain Membuat Website, Saya Juga Sudah Belajar Banyak Simulasi Arduino di Wokwi",
+      Link: "https://wokwi.com/projects/454649405675279361"
+    },
   ]);
   
   // GANTI INI - dari [] jadi 4 sertifikat dengan nama YANG BENAR:
