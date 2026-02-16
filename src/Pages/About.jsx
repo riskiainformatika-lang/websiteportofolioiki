@@ -118,9 +118,9 @@ const AboutPage = () => {
 const { totalProjects, totalCertificates, YearExperience } = useMemo(() => {
   // Hardcode values
   return {
-    totalProjects: 3,      // ⬅️ LANGSUNG 3
+    totalProjects: 5,      // ⬅️ LANGSUNG 3
     totalCertificates: 4,  // ⬅️ LANGSUNG 4
-    YearExperience: 1      // ⬅️ LANGSUNG 1
+    YearExperience: 2      // ⬅️ LANGSUNG 1
   };
 }, []);
 
@@ -208,7 +208,7 @@ const { totalProjects, totalCertificates, YearExperience } = useMemo(() => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-              Saya adalah seorang anak SMA kelas 12 yang sejak awal tertarik mempelajari website karena ingin bisa membuat sesuatu sendiri melalui komputer, saya mulai belajar dari dasar seperti HTML dan CSS lalu berlatih setiap malam setelah pulang sekolah, mencoba membuat halaman tentang diri saya, membuat project sambil melatih skill saya.
+              Saya adalah seorang mahasiswa di salah satu Universitas yang ada di Indonesia, saat menjadi pelajar SMA yang sejak awal tertarik mempelajari website karena ingin bisa membuat sesuatu sendiri melalui komputer, saya mulai belajar dari dasar seperti HTML dan CSS lalu berlatih setiap malam setelah pulang sekolah, mencoba membuat halaman tentang diri saya, membuat project sambil melatih skill saya.
             </p>
 
             {/* Quote Section */}

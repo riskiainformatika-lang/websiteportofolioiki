@@ -153,6 +153,13 @@ export default function FullWidthTabs() {
       Description: "Selain Membuat Website, Saya Juga Sudah Belajar Banyak Simulasi Arduino di Wokwi",
       Link: "https://wokwi.com/projects/454649405675279361"
     },
+    {
+      id: 5,
+      Img: "/gambarproject/project5.png",
+      Title: "Belajar PLC di CX-Programmer",
+      Description: "Setelah belajar banyak di arduino, saya lanjutkan dengan belajar PLC",
+      Link: "Tidak Ada"
+    },
   ]);
   
   // GANTI INI - dari [] jadi 4 sertifikat dengan nama YANG BENAR:
