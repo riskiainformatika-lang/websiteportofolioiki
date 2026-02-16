@@ -128,37 +128,37 @@ export default function FullWidthTabs() {
     {
       id: 1,
       Img: "/gambarproject/project1.png",
-      Title: "Project Restaurant RA Premium Data Base Dan Dashboard Admin",
+      Title: "Project Restaurant RA Premium Data Base dan Dashboard Admin",
       Description: "Ini saya membuatnya sedikit susah ya guys",
       Link: "https://github.com/riskiainformatika-lang/projectrestoranra.git"
     },
     {
       id: 2,
-      Img: "/gambarproject/project2.png",
-      Title: "Project Restaurant Tanpa Data Base Dan Dashboard Admin",
-      Description: "Ini untuk kalian jika pemula",
-      Link: "https://github.com/riskiainformatika-lang/projectrestoranbyiki.git"
+      Img: "/gambarproject/project5.png",
+      Title: "Belajar PLC di CX-Programmer",
+      Description: "Setelah belajar banyak di arduino, saya lanjutkan dengan belajar PLC",
+      Link: "Tidak Ada"
     },
     {
       id: 3,
-      Img: "/gambarproject/project3.png",
-      Title: "Project Kepastian Cinta",
-      Description: "Ini kalo kalian bosan aja",
-      Link: "https://github.com/riskiainformatika-lang/projectgabut.git"
-    },
-    {
-      id: 4,
       Img: "/gambarproject/project4.png",
       Title: "Projects Simulasi Arduino di Wokwi",
       Description: "Selain Membuat Website, Saya Juga Sudah Belajar Banyak Simulasi Arduino di Wokwi",
       Link: "https://wokwi.com/projects/454649405675279361"
     },
     {
+      id: 4,
+      Img: "/gambarproject/project2.png",
+      Title: "Project Restaurant Tanpa Data Base dan Dashboard Admin",
+      Description: "Ini untuk kalian jika pemula",
+      Link: "https://github.com/riskiainformatika-lang/projectrestoranbyiki.git"
+    },
+    {
       id: 5,
-      Img: "/gambarproject/project5.png",
-      Title: "Belajar PLC di CX-Programmer",
-      Description: "Setelah belajar banyak di arduino, saya lanjutkan dengan belajar PLC",
-      Link: "Tidak Ada"
+      Img: "/gambarproject/project3.png",
+      Title: "Project Iseng",
+      Description: "Ini kalo kalian bosan aja",
+      Link: "https://github.com/riskiainformatika-lang/projectgabut.git"
     },
   ]);
   
